@@ -37,3 +37,36 @@ caption{
     font-size: 18px;
     color:  #ff9900;
  }
+
+ figure{
+    border:1px;
+    color:#cccccc solid;
+    width:50%;
+    padding:4px;
+    margin:auto;
+ }
+
+ figcaption{
+   background-color:black;
+   color:white;
+   font-style: italic;
+   padding:2px;
+   text-align: center;
+ }
+
+figure img{
+    border:50%;
+}
+
+.qualquer{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: black;
+   text-align: center;
+   background-image: linear-gradient(rgba(206, 201, 201, 0.909), hsl(0, 100%, 20%));
+}
+
+ }
