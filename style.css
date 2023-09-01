@@ -80,6 +80,7 @@ figure img{
     table-layout: fixed;
     text-align: center;
   }
+
 td{
     padding: .7em;
     margin: 0;
@@ -95,4 +96,5 @@ td{
   th{
     background-color: #660000;
     text-transform: uppercase;
+    color:#f0f0f0;
   }
