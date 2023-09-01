@@ -56,18 +56,18 @@ figcaption{
  }
 
 figure img{
-    border:50%;
+    border-radius:50%;
 }
 
 .qualquer{
     position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: red;
-   color: black;
-   text-align: center;
-   background-image: linear-gradient(rgba(206, 201, 201, 0.909), hsl(0, 100%, 20%));
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: black;
+    text-align: center;
+    background-image: linear-gradient(rgba(247, 247, 247, 0.904), hsl(0, 100%, 20%));
 }
 
  .gabilinfa{
