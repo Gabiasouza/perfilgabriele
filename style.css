@@ -80,7 +80,7 @@ figure img{
     table-layout: fixed;
     text-align: center;
   }
-td, th {
+td{
     padding: .7em;
     margin: 0;
     /*border: 1px solid #ccc;*/
