@@ -99,7 +99,7 @@ td{
     color:#f0f0f0;
   }
 
-  div{
+  .boxmodel{
     width: 300px;
     border: 15px solid pink;
     padding: 50px;
