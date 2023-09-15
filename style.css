@@ -98,3 +98,10 @@ td{
     text-transform: uppercase;
     color:#f0f0f0;
   }
+
+  div{
+    width: 300px;
+    border: 15px solid pink;
+    padding: 50px;
+    margin: 20px;
+  }
